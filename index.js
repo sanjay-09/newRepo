@@ -1,2 +1,2 @@
-const c=100;
+const c=1000;
 const b=20;
